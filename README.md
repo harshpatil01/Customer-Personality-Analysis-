@@ -1,6 +1,7 @@
 # Customer-Personality-Analysis-
 To create a professional README.md for your GitHub project, I’ll integrate the insights and details from the files you’ve uploaded. Here’s a draft outline for the README:
 
+
 Customer Personality Analysis and Segmentation
 
 Overview
