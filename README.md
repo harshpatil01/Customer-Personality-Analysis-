@@ -69,3 +69,17 @@ The project is deployed as an interactive Streamlit app featuring:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/your-repo.git
+
+2.	Install dependencies:
+    pip install -r requirements.txt
+
+3.	Launch the Streamlit app:
+    pip install -r requirements.txt
+
+4.Conclusion
+
+	•	Preprocessing, feature engineering, and visualization are key to effective analysis.
+ 
+	•	Clustering models provide actionable customer segmentation.
+ 
+	•	The Streamlit app makes these insights accessible and interactive.
